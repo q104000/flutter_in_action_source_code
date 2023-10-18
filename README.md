@@ -1,3 +1,13 @@
+Flutter实战第一版随书源码
+
+fork：https://github.com/ChengLuffy/flutter_in_action_source_code
+
+编译通过，暂时不能运行。//用处不大。
+
+
+
+
+
 # 《Flutter实战》随书源码
 
 本项目为[《Flutter实战》电子书](https://github.com/flutterchina/flutter-in-action)随书源码，本书实体书名待定。
